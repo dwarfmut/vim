@@ -23,3 +23,5 @@ vim +BundleInstall +qall
 
 # Install monaco-for-powerline font
 ln -nsf ${PWD}/Monaco%20for%20Powerline.otf ~/Library/Fonts/
+
+# vim:ft=sh:
